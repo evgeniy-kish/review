@@ -1,0 +1,9 @@
+/.idea
+/node_modules
+/storage/*.key
+/public/mix-manifest.json
+/public/favicon.svg
+package-lock.json
+/vendor
+.env
+composer.lock

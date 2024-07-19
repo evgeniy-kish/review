@@ -1,0 +1,1 @@
+<em class="icon ni ni-help-fill" title="Маски для замены" data-toggle="popover" data-html="true" data-placement="top" data-content="<div><b>{product}</b> - Product title</div><div><b>{category}</b> - Category title</div><div><b>{site}</b> - App name</div>"></em>
